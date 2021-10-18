@@ -15,4 +15,3 @@ This also has the added benefit of side-stepping DEP enrollment, though will not
 6. Reboot the device. Allow to boot normally. If you have enabled auto-login, you will land at the desktop. If not simply enter the password configured in step 1 and enjoy the new install with all default settings
 
 Example user package created with `./createuserpkg -n apple -u 501 -V 1.0 -i local.toru173.createappleuser -p apple -f Apple -a -A Create\ Apple\ User.pkg`
-
